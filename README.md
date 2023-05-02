@@ -1,2 +1,2 @@
 # python4fun
-Some Python challenge with solution
+Here in each folder you'll find a question that should be solved in Python. You can find the solution in attached python file of each folder.

@@ -1,5 +1,9 @@
 # Senior Solution
 print("{:,}".format(100000000))
+#
+# More details about 'format' method:
+# e.g. "My name is {fname}, I'm {age}".format(fname = "John", age = 36)
+# special e.g.: ":,	==> Use a comma as a thousand separator"
 
 
 # Junior Solution
